@@ -10,7 +10,7 @@ require_once('./../lib/class.environment.php');
     <div class="container">
         <a class="navbar-brand" href="./">System Installation</a>
         <div>
-            <a href="https://sourcecodester.com" class="text-light fw-bolder h6 text-decoration-none" target="_blank">SourceCodester</a>
+            <a href="https://ahmedalimughal.netlify.app/" class="text-light fw-bolder h6 text-decoration-none" target="_blank">Ahmed Ali Mughal</a>
         </div>
     </div>
 </nav>
